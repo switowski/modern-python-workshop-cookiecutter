@@ -1,0 +1,9 @@
+{
+    "author_name": "Sebastian Witowski",
+    "project_name": "TODO Application",
+    "project_description": "This is a simple TODO application.",
+    "directory_name": "todo",
+    "start_from": ["Scaffolding", "Empty files"],
+    "generate_html": "y",
+    "license": ["MIT license", "Other"]
+  }
